@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Client Apk</string>
+    <string name="admob_id">ca-app-pub-8713898396645000~4733045564</string>
+    //test ads
+    <!--<string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstital_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="reward_id">ca-app-pub-3940256099942544/5224354917</string>-->
+
+    //release ads
+    <string name="banner_id">ca-app-pub-8713898396645000/6784493837</string>
+    <string name="interstital_id">ca-app-pub-8713898396645000/5021029602</string>
+    <string name="reward_id">ca-app-pub-8713898396645000/7287621361</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
